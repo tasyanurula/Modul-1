@@ -1,4 +1,4 @@
-// Program menjumlahkan 2 buah bilangan
+/* Program menjumlahkan 2 buah bilangan */
 #include <stdio.h>
 int main ()
 {
