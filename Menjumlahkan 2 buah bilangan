@@ -1,0 +1,16 @@
+// Program menjumlahkan 2 buah bilangan
+#include <stdio.h>
+int main ()
+{
+	int Bilangan_1, Bilangan_2, Hasil; // Deklarasi Variabel
+	
+	printf("Masukkan Bilangan Pertama : ");
+	scanf("%d",&Bilangan_1);
+	printf("Masukkan Bilangan Kedua : ");
+	scanf("%d",&Bilangan_2);
+	
+	Hasil = Bilangan_1 + Bilangan_2; // Proses Penjumlahan
+	printf("Hasil Penjumlahan Kedua Bilangan adalah : %d", Hasil);
+	
+	return 0;
+}
